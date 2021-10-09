@@ -1,0 +1,25 @@
+#paint{
+    border-style:ridge;
+    border-radius:6px;
+    border-width: 15px;
+    background-color: white;
+}
+button{
+    border:0px;
+    background-color:#1bf852;
+    height:50px;
+    width: 150px;
+    color:white;
+    font-size: 19px;
+}
+body{
+    background-image: url('Paint_Background.jpg');
+    background-size: cover;
+}
+input{
+    background-color:yellow
+}
+span{
+    color:white;
+    font-size:20px
+}
